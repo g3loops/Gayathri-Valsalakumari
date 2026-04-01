@@ -56,7 +56,8 @@ Coursework: Data Management, Advanced Statistics, Machine Learning, FinTech, Clo
 MBA in Finance (2019 – 2021)  
 Coursework: Finance, Economics, Statistics, Business Evaluation  
 
-**Rajagiri School of Engineering and Technology, Cochin,India**
+**Rajagiri School of Engineering and Technology,Cochin,India**
+
 Bachelor’s in Applied Electronics & Instrumentation Engineering (2014-2018)
 Coursework: Mathematics, Analog Circuits, Industrial Electronics & Applications, Process Control
 
