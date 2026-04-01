@@ -40,8 +40,6 @@ Currently, I am strengthening my expertise in:
 
 ## 🎯 Career Goal
 
-## 🎯 Career Goal
-
 To build data-driven financial models that **simplify and optimize financial analysis**, enabling smarter and faster business decisions.
 
 I am a quick learner with a strong growth mindset, eager to gain industry experience in dynamic environments that foster continuous learning, innovation, and skill development.
